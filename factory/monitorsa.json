@@ -1,0 +1,9 @@
+{
+	"name": "monitorsa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d675e20-474f-4237-bade-3753940a5426",
+		"tenantId": "c9515ae6-7419-4ae5-a700-4bb5f4afa7dc"
+	}
+}
